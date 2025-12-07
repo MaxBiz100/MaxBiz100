@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @MaxBiz100
-- 👀 I’m interested in programming, flimmaking, and hacking ("ethically", of course!)
-- 🌱 I’m currently learning Python, PHP, and JavaScript
-- 📫 How to reach me email me at github@maxbiz.ca
-- 😄 Pronouns: he/him/they/them
-<!---
-MaxBiz100/MaxBiz100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<pre>
+hackerman@Max ~ $ neofetch									
+__  _								OS(es): macOS, Lubuntu, iOS, Windows, BlackBerryOS, OpenWRT
+\ `/ |								Host: Max • Student | Creator | Dev
+ \__`!								Uptime: 14 years
+ / ,' `-.__________________			Packages: PHP, Python, HTML, CSS, OSINT, Aviation, Hacking, etc....
+'-'\_____                LI`-.		Pronouns: he/him/his -or- they/them/their
+   <____()-=O=O=O=O=O=[]====--)		Resolution: needs glasses 👓
+     `.___ ,-----,_______...-'		Current Big Focus: Building Stuff, Breaking Stuff, Grades 📈
+         /   .'						Best Open Source Projects: HomeBridge, OpenStreetMap, Godot, WebKit, and ***********. 
+        /  .'     					Current Micro-Mission: Running Minecraft on whatever I can get my GRUBby hands on 😜
+   		/  .						CPU: Googlplexian‑Core ADHD i5
+        `-'							GPU: Aphantasia RTX 3090
+        							Memory: always 128GB for tech, always 64KB for chores :3
+        							
+hackerman@max ~ $ php -r 'echo "Hello World!";'
+</pre>
